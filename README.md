@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -66,7 +66,7 @@
 </div>
 
 <div align=center>
-      <a href="https://app.daily.dev/taroon2910"><img src="https://api.daily.dev/devcards/v2/oyjX055svlFsP3Mh3yyYx.png?type=default&r=u0j" width="356" alt="Taroon Beegadhur's Dev Card"/></a>
+     <a href="https://app.daily.dev/taroon2910"><img src="https://api.daily.dev/devcards/v2/oyjX055svlFsP3Mh3yyYx.png?type=wide&r=u0j" width="652" alt="Taroon Beegadhur's Dev Card"/></a>
 </div>
 
 <br/><br/>
