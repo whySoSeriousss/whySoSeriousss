@@ -14,7 +14,7 @@
  
  🌱 I'm currently diving into **Docker, Java (T24 Extensibility), Azure, and modern Frontend Frameworks**
 
-💬 Let's discuss **Java, Angular, Python... or anything [here](https://github.com/whySoSeriousss)**
+💬 Let's discuss **Java, Angular, Python... or anything [here](https://github.com/whySoSeriousss/issues)**
 
 ⚡ Fun fact **What do you call a werewolf who can’t stop telling dad jokes? A howler!**
 
