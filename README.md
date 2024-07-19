@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <div style="margin-right: 20px;">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=whySoSeriousss&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   </div>
